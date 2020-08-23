@@ -29,7 +29,7 @@
 --each
 
 --next
--js dist/TestPlugin.js
+-js dist/Luna_UniqueItems.js
 -main LunaUniqueItems
 
 --next
